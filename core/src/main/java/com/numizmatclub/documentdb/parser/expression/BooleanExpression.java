@@ -4,6 +4,8 @@ import com.numizmatclub.documentdb.storage.DocumentMatcher;
 import org.bson.BsonDocument;
 
 /**
+ * Defines an interface for boolean expressions for a query.
+ *
  * @author Valerii Kantor
  */
 public interface BooleanExpression {
